@@ -12,3 +12,5 @@ session.json
 
 # File log lainnya
 *.log
+/frontend/node_modules
+*.js
